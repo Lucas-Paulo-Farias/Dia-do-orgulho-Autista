@@ -67,8 +67,6 @@ h1 {
 
 h2 {
     font-size: 2em;
-    border-bottom: 2px solid #e9ecef;
-    padding-bottom: 10px;
     margin-top: 40px;
     text-align: left;
     color: #007bff;
@@ -113,7 +111,7 @@ ul li::before {
 
 hr {
     border: none;
-    border-top: 1px dashed #ced4da;
+    border-bottom: 2px solid #e9ecef;
     margin: 50px 0;
 }
 
